@@ -25,3 +25,16 @@ Just call it with a --target argument and two --input arguments.  All values are
 For example
 
    pearson.py --target 14 --input 10 --input 45
+
+Will give you the sample output:
+
+~~~
+Processing feed requirements for a target percentage of 14%
+Inputs:
+  Input 1 is 10 percent protein
+  Input 2 is 45 percent protein
+   
+You should use 4 parts of ingredient 1 (10%) and 31 parts of ingredient 2 (45%)
+~~~
+
+Easy, eh?
