@@ -25,7 +25,7 @@ Just call it with a --target argument and two --input arguments.  All values are
 For example
 
 ~~~
-   pearson.py --target 14 --input 10 --input 45
+    pearson.py --target 14 --input 10 --input 45
 ~~~
 
 Will give you the sample output:
